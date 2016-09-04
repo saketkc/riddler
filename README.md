@@ -1,10 +1,7 @@
 # riddler
-Solutions to fivethirtyeight's riddler problems.
 
-1. 
-
-
-2. 
+Solutions to fivethirtyeight's riddler problems. Since, my PhD was going nowhere. 
+We all need stimulants.
 
 
 | Problem       | Solution |
